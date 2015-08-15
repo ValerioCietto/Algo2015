@@ -1,0 +1,12 @@
+---
+  componenti-gruppo:
+    - valerio cietto
+  esercizi:
+    - binarysearch:
+        punti: 1
+    - sorting:
+        punti: 6
+    - graphs:
+        punti: 8
+        variante: b
+  somma-punti: 15
