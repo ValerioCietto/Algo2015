@@ -1,0 +1,33 @@
+Illustrare le diverse versioni del quicksort, confrontandone le complessità
+Ricavare la complessità del quicksort in un ipotetico caso di partizione sempre 1⁄4 e 3⁄4.
+Dire quali sono gli algoritmi divide-et-impera a partizione bilanciata studiati nel corso.
+Ricavare e risolvere le equazioni di ricorrenza per le Torri di Hanoi.
+Ricavare il codice ricorsivo della funzione Fibonacci e spiegare perché non è conveniente.
+Ricavare il codice iterativo di una funzione che genera l’array dei primi n numeri di Fibonacci.
+Dire che cosa è il tipo astratto Dizionario e passarne in rassegna le possibili implementazioni.
+Spiegare perché si introducono gli alberi AVL.
+Si spieghi dettagliatamente il funzionamento delle rotazioni negli alberi AVL.
+Spiegare che cosa sono i due modi di risoluzione delle collisioni in una tavola hash. Dire come si
+risolve nell’indirizzamento aperto il problema della cancellazione.
+Si spieghi che cos’è il tipo astratto UnionFind.
+Si illustrino le realizzazioni di UnionFind cosiddette con Quick Find.
+Si illustrino le realizzazioni di UnionFind cosiddette con Quick Union.
+Si inventi un esempio in cui nella UnionFind con Quick Union non ottimizzata la complessità
+della find è lineare.
+Si spieghi perché nella UnionFind realizzata con QuickUnion si introduce la Union by Size, cioè
+quali ne sono i vantaggi.
+Si dimostri che la complessità del caso peggiore delle operazioni nella UnionFind con QuickUnion
+con Union by size è logaritmica.
+Si spieghi la differenza fra complessità del caso medio e complessità ammortizzata.
+Si dica qual è l’effetto della compressione dei cammini sulla complessità delle operazioni della
+UnionFind.
+Si spieghi che cosa sono gli algoritmi greedy.
+Si dimostri la correttezza dell’algoritmo greedy per il massimo numero di intervalli disgiunti.
+Si dimostri la correttezza dell’algoritmo di Moore.
+Si scriva il codice di una funzione che stabilisce se due alberi binari sono uguali, oppure: se sono
+speculari; se hanno la stessa forma; ecc.
+Si scriva il codice di una funzione che calcola l’altezza di un albero binario; oppure: che calcola la
+somma dei valori dei suoi nodi; che cerca un valore (in un albero non di ricerca); che taglia
+l’albero a un livello h.
+Si descriva un algoritmo di ordinamento su array, che chiamiamo treesort, che usa un albero di
+ricerca.
