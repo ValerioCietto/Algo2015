@@ -1,1 +1,46 @@
 
+Perché la risposta data a un certo esercizio del compito è sbagliata, e qual è la risposta corretta.
+• Scrivere il codice (Java o C) della procedura di ricerca binaria iterativa (su array ordinato),
+ricavandolo dall’invariante di ciclo. Valutarne la complessità del caso peggiore.
+• Scrivere il codice (Java o C) della procedura di ricerca binaria ricorsiva (su array ordinato).
+• Scrivere il codice dell’algoritmo della bandiera tricolore ricavandolo dall’invariante di ciclo.
+• Ricavare il codice di un algoritmo della bandiera a quattro colori da un opportuno invariante.
+• Ricavare il codice della procedura moveUp nella coda con priorità.
+• Ricavare il codice del counting sort versione “discendente”.
+• Che differenza c’è fra correttezza parziale e correttezza totale ?
+• Scrivere un programma parzialmente corretto per qualunque problema.
+• Ricavare dall’invariante di ciclo il codice dell’esponenziale veloce, e dimostrarne la correttezza.
+• Scrivere il codice di una versione ingenua dello heapsort usando la PriorityQueue di Java.
+• (difficile) Ricavare un algoritmo, ispirato al quicksort, per trovare il k-esimo elemento in ordine
+crescente in un array, senza ordinare totalmente l’array.
+• Spiegare la differenza fra complessità di un algoritmo e complessità di un problema.
+• Dimostrare la correttezza della versione alla Hoare della partizione del quicksort.
+• Dimostrare il teorema master.
+• Dimostrare la correttezza dell’algoritmo di Kruskal (o di Prim, o di Dijkstra, dell’algoritmo per
+trovare le cfc, ecc.).
+• Quali sono le strutture ad albero illustrate nel corso ? Enunciarne le definizioni, e confrontarlr fra
+di loro.
+• Enunciare la definizione induttiva di albero binario di ricerca (o quella di albero 1-bilanciato).
+• Spiegare che cos’è un tipo astratto (Abstract Data Type). Quale costrutto Java e quale costrutto C
+corrisponde a un tipo astratto ?
+• Ricavare in qualche modo, purché rigoroso, la complessità temporale del mergesort.
+• Mostrare un esempio di non-stabilità del selection-sort.
+• Ricavare il codice ricorsivo (o iterativo) dell’algoritmo di inserimento in un albero binario di
+ricerca.
+• Spiegare come si potrebbe realizzare un albero di ricerca ternario invece che binario. Quali
+vantaggi e/o svantaggi avrebbe ?
+• Spiegare come si potrebbe realizzare uno heap ternario invece che binario. Quali vantaggi e/o
+svantaggi avrebbe ?
+• Dimostrare che il limite inferiore per il problema dell’ordinamento per soli confronti è ...
+• Calcolare il minimo numero esatto di confronti necessari nel caso peggiore per ordinare una
+sequenza di 7 elementi.
+• Spiegare che cosa sono gli algoritmi greedy, con esempi.
+• Spiegare che cosa sono gli algoritmi divide-et-impera, con esempi.
+• Illustrare le diverse versioni dello heapsort.
+• Ricavare la procedura per il gioco delle torri di Hanoi.
+• Eliminare la ricorsione di coda dall’algoritmo di ...
+• Enunciare la definizione di albero completo, di albero quasi-completo, albero quasi-completo da
+sinistra.
+• Enunciare la definizione induttiva di albero completo.
+• Si potrebbe realizzare lo heap come albero quasi-completo invece che quasi-completo da sinistra ?
+• Ricavare le equazioni di ricorrenza per l’algoritmo dato
